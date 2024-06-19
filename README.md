@@ -1,9 +1,9 @@
-<h1 align="center">Hola soy ♠️❤️♣️♦️ Rom</h1>
-<h3 align="center">Desarollador / Diseñador / Artista en Progreso</h3>
+<h1 align="center"> ♦️ ♣️ Romsesito ❤️ ♠️</h1>
+<h3 align="center"> Artist </h3>
 
 - 🔭 En desarollo de [Slenderman for Rivals](https://www.youtube.com/watch?v=YBA732Vu1jM)
 
-- 🌱 I’m currently learning **C#, Python, Unity**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
