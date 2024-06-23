@@ -55,3 +55,19 @@
  
  <br/>
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=DowJmxokkBM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254485511012094063/INKARDIAAAA.png?ex=6679aa2d&is=667858ad&hm=42aabba737fe452d186f79e075b939308cf2984267f0ba15da56de6071f99288&" width="100%" height="auto"/></a>
+</p>
+ 
+<p align="center">
+
+  <a href="https://www.youtube.com/watch?v=OJlIZrebDCs"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/709859419898511431/1254468083213533225/yutu.png?ex=667999f1&is=66784871&hm=6c4fb89fd08c1b733b2e3b105eb96e7ab25ab9e8021f8d9aae1ac16566f2b4d0&"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
+ </p>
+
+ 
+ <br/>
+
+
+
