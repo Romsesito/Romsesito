@@ -40,14 +40,16 @@
  ## 🤓 My best projects to date 🤓
 
 
- <p align="center">
- <iframe width="1120" height="630" src="https://www.youtube.com/embed/YBA732Vu1jM?si=gTP2B9bkC2F4hTFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+<a href="https://www.youtube.com/@romsesito/featured"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254483536916905984/RAIVALS.png?ex=6679a856&is=667856d6&hm=1f6e53881a3065fab4993afeee137b67cedd89b8dbff0499575358661f1905f0&" width="50%" height="auto"/></a>
 </p>
- <p align="center">
-
+ 
+<p align="center">
  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2950617648"><img width="32px" alt="Steam" title="Steam" src="https://cdn.discordapp.com/attachments/709859419898511431/1254474171724075108/steaam.png?ex=66799f9d&is=66784e1d&hm=36bc68c662ea513c0db76911251353bf3d0ad20dee7244be1a2185fa2163dab1&"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-
+  <a href="https://www.youtube.com/channel/UCe-tRcEe9RxDMvyRfXaZU9Q"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/709859419898511431/1254468083213533225/yutu.png?ex=667999f1&is=66784871&hm=6c4fb89fd08c1b733b2e3b105eb96e7ab25ab9e8021f8d9aae1ac16566f2b4d0&"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
  </p>
 
  
