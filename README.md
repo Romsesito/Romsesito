@@ -41,7 +41,7 @@
 
 
 <p align="center">
-<a href="https://www.youtube.com/@romsesito/featured"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254483536916905984/RAIVALS.png?ex=6679a856&is=667856d6&hm=1f6e53881a3065fab4993afeee137b67cedd89b8dbff0499575358661f1905f0&" width="50%" height="auto"/></a>
+<a href="https://www.youtube.com/watch?v=YBA732Vu1jM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254483536916905984/RAIVALS.png?ex=6679a856&is=667856d6&hm=1f6e53881a3065fab4993afeee137b67cedd89b8dbff0499575358661f1905f0&" width="100%" height="auto"/></a>
 </p>
  
 <p align="center">
