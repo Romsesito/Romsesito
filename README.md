@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://www.youtube.com/@romsesito/featured"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254466289930604574/BANNER_GITHUB.png?ex=66799846&is=667846c6&hm=079149433758dbabe35a2f823dc9fbd925d1b418bbd5fc7515040b20c46ee622&" width="50%" height="auto"/></a>
+<a href="https://www.youtube.com/@romsesito/featured"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254466289930604574/BANNER_GITHUB.png?ex=66799846&is=667846c6&hm=079149433758dbabe35a2f823dc9fbd925d1b418bbd5fc7515040b20c46ee622&" width="100%" height="auto"/></a>
 </p>
 
 
@@ -38,7 +38,7 @@
 
 
  <p align="center">
- <a href="https://www.youtube.com/watch?v=YBA732Vu1jM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254472353136644197/SLENDEMRAN.png?ex=66799deb&is=66784c6b&hm=dde6c2ed9f8c70b950fc8ff7386a5436fe9b7ffa34d70929ef3b3e6cf2687af3&" width="40%" height="auto"/></a>
+ <a href="https://www.youtube.com/watch?v=YBA732Vu1jM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254472353136644197/SLENDEMRAN.png?ex=66799deb&is=66784c6b&hm=dde6c2ed9f8c70b950fc8ff7386a5436fe9b7ffa34d70929ef3b3e6cf2687af3&" width="100%" height="auto"/></a>
  </p>
 
 
