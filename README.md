@@ -28,20 +28,20 @@
 </p>
  ## 🤓 My best projects to date 🤓
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=YBA732Vu1jM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254483536916905984/RAIVALS.png?ex=6679a856&is=667856d6&hm=1f6e53881a3065fab4993afeee137b67cedd89b8dbff0499575358661f1905f0&" width="100%" height="auto"/></a>
+    <a href="https://www.youtube.com/watch?v=YBA732Vu1jM"><img src="https://i.imgur.com/80Xo1f9.png" width="100%" height="auto"/></a>
 </p>
 <p align="center">
-   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2950617648"><img width="32px" alt="Steam" title="Steam" src="https://cdn.discordapp.com/attachments/709859419898511431/1254474171724075108/steaam.png?ex=66799f9d&is=66784e1d&hm=36bc68c662ea513c0db76911251353bf3d0ad20dee7244be1a2185fa2163dab1&"/></a>
+   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2950617648"><img width="32px" alt="Steam" title="Steam" src="https://i.imgur.com/hdxrZxz.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/channel/UCe-tRcEe9RxDMvyRfXaZU9Q"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/709859419898511431/1254468083213533225/yutu.png?ex=667999f1&is=66784871&hm=6c4fb89fd08c1b733b2e3b105eb96e7ab25ab9e8021f8d9aae1ac16566f2b4d0&"/></a>
+   <a href="https://www.youtube.com/channel/UCe-tRcEe9RxDMvyRfXaZU9Q"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/ml0JEQg.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=DowJmxokkBM"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254485511012094063/INKARDIAAAA.png?ex=6679aa2d&is=667858ad&hm=42aabba737fe452d186f79e075b939308cf2984267f0ba15da56de6071f99288&" width="100%" height="auto"/></a>
+    <a href="https://www.youtube.com/watch?v=DowJmxokkBM"><img src="https://i.imgur.com/ma55kCp.png" width="100%" height="auto"/></a>
 </p>
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=OJlIZrebDCs"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/709859419898511431/1254468083213533225/yutu.png?ex=667999f1&is=66784871&hm=6c4fb89fd08c1b733b2e3b105eb96e7ab25ab9e8021f8d9aae1ac16566f2b4d0&"/></a>
+    <a href="https://www.youtube.com/watch?v=OJlIZrebDCs"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/ml0JEQg.png"/></a>
 </p>
 <br/>
 <p>
