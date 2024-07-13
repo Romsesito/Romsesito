@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.youtube.com/@romsesito/featured"><img src="https://cdn.discordapp.com/attachments/709859419898511431/1254466289930604574/BANNER_GITHUB.png?ex=66799846&is=667846c6&hm=079149433758dbabe35a2f823dc9fbd925d1b418bbd5fc7515040b20c46ee622&" width="100%" height="auto"/></a>
+  <a href="https://www.youtube.com/@romsesito/featured"><img src="https://imgur.com/QimbwyY" width="100%" height="auto"/></a>
 </p>
 <p align="center">
     <a href="https://www.youtube.com/channel/UCe-tRcEe9RxDMvyRfXaZU9Q"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.discordapp.com/attachments/709859419898511431/1254468083213533225/yutu.png?ex=667999f1&is=66784871&hm=6c4fb89fd08c1b733b2e3b105eb96e7ab25ab9e8021f8d9aae1ac16566f2b4d0&"/></a>
