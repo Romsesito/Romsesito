@@ -1,7 +1,8 @@
 <p align="center">
 
-<img width="2480" height="3508" alt="image" src="https://github.com/user-attachments/assets/1abdb00a-40b5-4f45-95a9-c6abba51f282" />
+  <img width="4961" height="7016" alt="Ecuadoooraltversion" src="https://github.com/user-attachments/assets/3194d551-597c-4375-b473-1d0792e95086" />
 
 
 </details>
-  
+
+
